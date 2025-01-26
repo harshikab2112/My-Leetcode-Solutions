@@ -1,4 +1,4 @@
-## ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png) LeetCode Solutions  
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20"/> My LeetCode Solutions
 
 Welcome to my **LeetCode Solutions** repository! 🎯  
 This repository contains my solutions to various **LeetCode** problems, organized by difficulty and problem type. It's a showcase of my problem-solving skills, coding efficiency, and understanding of algorithms and data structures.  
